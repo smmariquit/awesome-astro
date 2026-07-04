@@ -3,7 +3,7 @@ Curated resources on __building sites with Astro__, a brand new way to build sta
 
 Astro is _super duper new_, improving, and becoming more expressive + powerful, but few of the APIs are still evolving. This page aspires to collect all the valauble references out there, and be a useful go-to resource when astro hits it's first stable version.
 
-__[Official Docs](https://docs.astro.build)__ | [Launch a new project](https://astro.new/) , or use [Code Sandbox](https://codesandbox.io/p/github/codesandbox/codesandbox-template-astro/main?file=%2FREADME.md)
+__[Official Docs](https://docs.astro.build)__ | [Launch a new project](https://astro.new/), or use [Code Sandbox](https://codesandbox.io/p/github/codesandbox/codesandbox-template-astro/main?file=%2FREADME.md)
 
 ## ✍️ Blogs
 Look for __NEW__ against the post titles to find the blogs published after Astro 1.0
@@ -17,7 +17,7 @@ Look for __NEW__ against the post titles to find the blogs published after Astro
 - [A first look at Astro, astronomical results](https://daily-dev-tips.com/posts/a-first-look-at-astra-astronomical-results/)
 - [Why Astro matters](https://dev.to/endymion1818/why-astro-matters-55nj)
 - [SvelteKit to Astro](https://navillus.dev/blog/converting-navillus-to-astro)
-- [Getting Started With Astro — The Innovative Static Site Generator](https://javascript.plainenglish.io/astro-cec429f049d)
+- [Getting Started With Astro: The Innovative Static Site Generator](https://javascript.plainenglish.io/astro-cec429f049d)
 - [Astro Will Become Your Favorite Static Site Generator](https://javascript.plainenglish.io/astro-906b03f63ab8)
 - [Build a Recipe collection website with Astro](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-1-setup-collections) - Parts &rarr; [1](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-1-setup-collections/) - [2](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-2-homepage-rendering/) - [3](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-3-category-filter-pages/) - [4](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-4-styling-the-website/) - [5](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-5-hosting-on-netlify/)
 - [Astro: Build faster apps with less JavaScript](https://blog.logrocket.com/astro-build-faster-apps-less-javascript/)
@@ -43,7 +43,6 @@ Look for __NEW__ against the post titles to find the blogs published after Astro
 - [How to use Goodreads data in Astro](https://sadman.ca/posts/how-to-use-goodreads-data-in-astro/) __NEW__
 - [Set up FlyonUI with Astro using Tailwind CSS](https://flyonui.com/docs/framework-integrations/astro/)
 
-
 ## 📹 Videos/Screencasts/Twitch
 - [Astro just Launched.... Could it be the ultimate web framework?](https://www.youtube.com/watch?v=gxBkghlglTg)
 - [Brad Traversy's Astro Crash Course](https://www.youtube.com/watch?v=Oi9z5gfIHJs)
@@ -56,7 +55,7 @@ Look for __NEW__ against the post titles to find the blogs published after Astro
 
 Pre 1.0
 - [Ship Less JavaScript with Astro](https://www.learnwithjason.dev/ship-less-javascript-with-astro) - __Fredd K. Schott__ & __Jason Lengstorf__
-- [Speakeasy JS – Astro: A New Architecture for the Modern Web](https://www.youtube.com/watch?v=mgkwZqVkrwo) - __Fred K. Schott__ (YouTube - Speakeasy JS)
+- [Speakeasy JS: Astro: A New Architecture for the Modern Web](https://www.youtube.com/watch?v=mgkwZqVkrwo) - __Fred K. Schott__ (YouTube - Speakeasy JS)
 - [Astro in 100 Seconds](https://www.youtube.com/watch?v=dsTXcSeAZq8) - __Jeff Delaney__ (Fireship)
 - [Yapping About Astro](https://www.youtube.com/watch?v=3jPaidbpUIA) - __Chris Coyier__ (CSS Tricks)
 - [Astro FTW! Vue and React can work together in the same app](https://www.youtube.com/watch?v=sUrxtZA2sA0) - __Jamstack Fridays__
@@ -75,7 +74,6 @@ Pre 1.0
 - [__Nate Moore__ on baseline JS bundle size](https://twitter.com/n_moore/status/1415067187446960129)
 - [Build a landing page in 30 seconds](https://twitter.com/astrodotbuild/status/1565438744500502528)
 - [Client-side routing experience with Shared Element Transitions API](https://twitter.com/charca/status/1562933467104440321)
-
 
 ## ℹ️ Repositories/Starter Kits/Components
 - [Astro-react-vue-demo](https://github.com/cassidoo/astro-react-vue-demo)
@@ -137,7 +135,7 @@ Pre 1.0
 - [astro-loader-goodreads](https://github.com/sadmanca/astro-loader-goodreads) - Load Goodreads data for books in shelves/lists, user updates, and author blogs into Astro.
 
 ## Astro Integrations
-- [Astro Content](https://github.com/JulianCataldo/astro-content) - A text based, structured content manager, for edition and consumption — AstroJS Integration
+- [Astro Content](https://github.com/JulianCataldo/astro-content) - A text based, structured content manager, for edition and consumption: AstroJS Integration
 - [@storyblok/astro](https://github.com/storyblok/storyblok-astro) - Astro module for the Storyblok, Headless CMS
 - [@unocss/astro](https://github.com/unocss/unocss/tree/main/packages/astro) - The UnoCSS integration for Astro
 - [@yeskunall/umami](https://github.com/yeskunall/astro-umami) - Add Umami Analytics to your website
